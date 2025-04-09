@@ -1,0 +1,6 @@
+pip install deepface numpy opencv-python dlib pandas
+pip install tensorflow-macos tensorflow-metal
+flask
+keras-facenet
+mtcnn
+opencv-python
